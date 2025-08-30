@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Yassin" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Sino" alt="Typing SVG" /><br>
   <img src="https://komarev.com/ghpvc/?username=Yassin2626&label=Profile+Views&color=ffb000&style=flat" alt="Profile Views" />
 </p>
 
@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://simpleicons.vercel.app/javascript/ffb000" height="30" alt="JavaScript" />
   <img src="https://simpleicons.vercel.app/html5/ffb000" height="30" alt="HTML" />
-  <img src="https://simpleicons.vercel.app/css3/ffb000" height="30" alt="CSS3" />
   <img src="https://simpleicons.vercel.app/python/ffb000" height="30" alt="Python" />
   <img src="https://simpleicons.vercel.app/cplusplus/ffb000" height="30" alt="C++" />
   <img src="https://simpleicons.vercel.app/blender/ffb000" height="30" alt="Blender" />
@@ -47,5 +46,4 @@
   <img src="https://simpleicons.vercel.app/cmake/ffb000" height="30" alt="CMake" />
   <img src="https://simpleicons.vercel.app/docker/ffb000" height="30" alt="Docker" />
   <img src="https://simpleicons.vercel.app/arc/ffb000" height="30" alt="PowerShell" />
-  <img src="https://simpleicons.vercel.app/codeium/ffb000" height="30" alt="VSCode" />
 </p>
