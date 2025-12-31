@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Sino" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Yassin" alt="Typing SVG" /><br>
   <img src="https://komarev.com/ghpvc/?username=Yassin2626&label=Profile+Views&color=ffb000&style=flat" alt="Profile Views" />
 </p>
 
@@ -23,10 +23,6 @@
 <p align="center">
   <a href="https://discord.com/users/956699005960720474" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=ffb000" />
-  </a>
-  &nbsp;
-  <a href="https://yassin.mysellauth.com/" target="_blank">
-    <img alt="Sell Auth" src="https://img.shields.io/badge/Sell%20Auth-100000?style=for-the-badge&logo=Shopify&logoColor=white&labelColor=black&color=ffb000"/>
   </a>
 </p>
 
