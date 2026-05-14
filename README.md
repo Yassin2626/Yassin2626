@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Sino" alt="Typing SVG" /><br>
+  <img src="https://komarev.com/ghpvc/?username=Yassin2626&color=ffb000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
   <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
