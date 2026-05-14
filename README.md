@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="httpslinkedin.com/in/yassin-awad-87b67a332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/yassin_awa28231"><img src="https://img.shields.io/badge/@lombazzzz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/yassin_awa28231"><img src="https://img.shields.io/badge/@Yassin_Awad-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ### `~ my stack`
