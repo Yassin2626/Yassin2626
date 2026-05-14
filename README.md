@@ -1,16 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=ffb000&center=true&random=true&width=500&lines=Sino" alt="Typing SVG" /><br>
-  <img src="https://komarev.com/ghpvc/?username=Yassin2626&color=ffb000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.gif">
   <img src="assets/ascii-light.gif" alt="ASCII portrait" width="100%">
 </picture>
 
 <p align="center">
-<a href="httpslinkedin.com/in/yassin-awad-87b67a332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/yassin-awad-87b67a332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/yassin_awa28231"><img src="https://img.shields.io/badge/@Yassin_Awad-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<img src="https://komarev.com/ghpvc/?username=Yassin2626&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/yassin-awad-87b67a332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/yassin_awa28231"><img src="https://img.shields.io/badge/@Yassin_Awad-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<img src="https://komarev.com/ghpvc/?username=Yassin2626&color=FF00FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ### `~ my stack`
