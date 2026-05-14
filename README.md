@@ -82,12 +82,12 @@ gantt
   axisFormat %H:%M
 
   section Morning
-    School                  :08:00, 420m
+    High School                  :08:00, 420m
 
   section Lunch
     Eating Lunch            :crit, 15:00, 35m
 
   section Afternoon
-    Programming             :16:00, 240m
-    Studying                :20:00, 180m
+    Programming & Creating new projects              :16:00, 240m
+    Studying for my College Classes & AP's                :20:00, 180m
 ```
