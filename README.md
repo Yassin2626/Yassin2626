@@ -57,7 +57,7 @@ hackathons wins                 ░░░░░░░░░░    2
 ```
 
 
-### `~ a day at work`
+### `~ a day in my life`
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{
