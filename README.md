@@ -54,7 +54,7 @@ Name           ░░░░░░░░░░  Yassen
 Surname        ░░░░░░░░░░  Awad
 Role           ░░░░░░░░░░  Full Stack Developer
 Currently      ░░░░░░░░░░  Building Websites for businesses and currently scaling it
-Random facts   ░░░░░░░░░░  16, Egyption, Volleyball Player, and a robotics hobbyist
+Random facts   ░░░░░░░░░░  16, New York, Volleyball Player, and a robotics hobbyist
 ```
 
 
