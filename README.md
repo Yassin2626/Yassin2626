@@ -5,7 +5,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/yassen-awad-87b67a332/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/yassin_awa28231"><img src="https://img.shields.io/badge/@Yassin_Awad-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <img src="https://komarev.com/ghpvc/?username=Yassin2626&color=ffb000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
